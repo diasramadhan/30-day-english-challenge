@@ -1,0 +1,10 @@
+Kelas Kata (Part of speech)
+
+1. pronoun 
+2. noun 
+3. verb
+4. adjective
+5. adverb
+6. preposition
+7. conjuction
+8. interjection
